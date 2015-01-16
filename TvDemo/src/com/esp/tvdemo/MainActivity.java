@@ -26,8 +26,8 @@ public class MainActivity extends Activity {
 	private ArrayList<MovieBean> movielist = null;
 	MovieBean moviebean = null;
 	ListBean listbean = null;
-	private int listIndex = 0;
-	private int movieIndex = 0;
+	//private int listIndex = 0;
+	//private int movieIndex = 0;
 
 	// CustomAdapter customAdapter = null;
 	View currentSelectView;
